@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^<html ng-app="myApp">$/;"	function	line:2
+head	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^  <head>$/;"	function	line:3
+meta	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <title>LoginPage<\/title>$/;"	function	line:5
+link	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <link rel="stylesheet" href="styles\\main.css">$/;"	function	line:6
+body	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^  <body ng-controller="formCtrl as form">$/;"	function	line:8
+div	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <div class="main" ng-view><\/div>$/;"	function	line:9
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="node_modules\\jquery\\dist\\jquery.js" charset="utf-8"><\/script>$/;"	function	line:10
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="node_modules\\angular\\angular.js" charset="utf-8"><\/script>$/;"	function	line:11
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="app.js" charset="utf-8"><\/script>$/;"	function	line:12
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="scripts\\validators.js" charset="utf-8"><\/script>$/;"	function	line:13
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="config\\config.js" charset="utf-8"><\/script>$/;"	function	line:14
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="node_modules\\angular-route\\angular-route.js" charset="utf-8"><\/script>$/;"	function	line:15
+script	C:\Users\Amit\Desktop\Amit_Kumar_Test\index.html	/^    <script src="controllers\\formController.js" charset="utf-8"><\/script>$/;"	function	line:16
